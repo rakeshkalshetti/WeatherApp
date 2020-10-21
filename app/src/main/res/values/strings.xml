@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="first_fragment_label">Weather</string>
+    <string name="please_enter_city_name_in_search_bar">Please enter city name in search bar</string>
+</resources>
